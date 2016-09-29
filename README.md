@@ -3,7 +3,7 @@ Christmas Tree
 
 I found animated Christmas tree on reddit:
 
-![reddit tree](http://i.imgur.com/Fy4S1jR.gif)
+![reddit tree](http://i.imgur.com/HpLDVEx.png)
 
 Was curious to make it in js. Current results are here: [Happy new  2016!](http://luishmr0.github.io/atree/). Wish you all great successes and joy, doing what you love!
 
